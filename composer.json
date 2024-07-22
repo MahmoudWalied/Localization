@@ -1,8 +1,8 @@
 {
-    "name":        "78sworks/localization",
+    "name":        "arcanedev/localization",
     "description": "Localization Package for Laravel",
     "keywords":    ["arcanedev", "laravel", "localization", "localisation", "i18n"],
-    "homepage":    "https://github.com/MahmoudWalied/Localization",
+    "homepage":    "https://github.com/ARCANEDEV/Localization",
     "authors": [
         {
             "name":     "ARCANEDEV",
